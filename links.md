@@ -11,3 +11,4 @@
 - 31/12/2019: [Sina - Reporter visits South China seafood market where pneumonia appears](https://finance.sina.com.cn/chanjing/cyxw/2019-12-31/doc-iihnzhfz9452319.shtml )
 - 31/12/2019: [Japantimes - Outbreak of SARS-like pneumonia being investigated in China](https://www.japantimes.co.jp/news/2019/12/31/asia-pacific/science-health-asia-pacific/outbreak-sars-like-pneumonia-investigated-china/#.XmZHikPSLOQ)
 - 31/12/2019: [CNBC - Chinese officials investigate cause of pneumonia outbreak in Wuhan](https://www.cnbc.com/2019/12/31/reuters-america-chinese-officials-investigate-cause-of-pneumonia-outbreak-in-wuhan.html)
+- 01/01/2020: [BJNews- Wuhan South China Seafood Market Closes Today](https://flutrackers.com/forum/forum/-2019-ncov-new-coronavirus/china-2019-ncov/821830-china-original-2019-ncov-news-thread-weeks-1-4-december-30-2019-january-25-2020?p=821866#post821866)
