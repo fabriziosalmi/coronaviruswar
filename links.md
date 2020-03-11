@@ -87,7 +87,9 @@ China's Wuhan Institute filed to patent the use of Gilead's remdesivir for the t
 
 - **22/01/2020**: [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) reported 555 confirmed cases and 17 deaths globally and  provide current stats too. 
 
-- **[..since today]**: Virus is still [spreading all around the world][(https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) .
+- **[...]**
+
+- **[11/03/2020]**: [NY Times - WHO declared SARS-CoV2 outbreak a pandemic][https://www.nytimes.com/2020/03/11/world/coronavirus-news.html)
 
 - Original article and references on [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_outbreak_in_December_2019_%E2%80%93_January_2020)
 
