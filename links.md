@@ -76,7 +76,9 @@ Confirmed cases were reported in several new locations in China. Zhejiang provin
 New cases were also reported outside of mainland China. Taiwan reported its first laboratory-confirmed case, and the United States reported its first laboratory-confirmed case in the state of Washington, the first in North America.
 China's Wuhan Institute filed to patent the use of Gilead's remdesivir for the treatment of novel coronavirus.
 
-- **22/01/2020**: [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) reports 555 confirmed cases and 17 deaths globally.
+- **22/01/2020**: [Coronavirus COVID-19 Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) reported 555 confirmed cases and 17 deaths globally and  provide current stats too.
+
+- [...]
 
 Original article and references on [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_the_2019%E2%80%9320_coronavirus_outbreak_in_December_2019_%E2%80%93_January_2020)
 
