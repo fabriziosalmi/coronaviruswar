@@ -1,5 +1,7 @@
 #### Resources
 
+- Real time: [YouTube - Roylab Stats](https://www.youtube.com/watch?v=qgylp3Td1Bw)
+
 Source: **WHO**
 
 - [Coronavirus disease (COVID-19) advice for the public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
