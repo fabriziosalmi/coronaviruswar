@@ -160,6 +160,30 @@ Beijing News reporter Zhang Shengpo Xiangkai Zhang Huilan
 - Edited by Wang Jingying to proofread Li Lijun - [link](http://www.bjnews.com.cn/inside/2020/01/01/668935.html)
 - Translation: Google
 
+---
+
+January 1st, 2020, 06:59 PM (Translation Google)
+
+**GOV.MO Macau Special Administrative Region Government Portal**
+
+Starting today, temperature screening of passengers from Wuhan flights Health Bureau maintains close liaison with National Health Commission
+
+- source: Health Bureau
+- Release date: January 1, 2020 17:41
+
+Regarding the cluster of unexplained pneumonia cases in Wuhan, Mainland China, Director Li Zhanrun of the Health Bureau said in a public interview today (January 1) that the notification from the National Health Commission and the local health department announced that Wuhan and South China Seafood Twenty-seven pneumonia cases have been found in the city, of which 7 are in serious condition, and the remaining cases are stable and controllable. Two patients are expected to be discharged in the near future. Authorities believe the cases are viral pneumonia, but the exact pathogen and source of the infection are still being tested. Investigations so far have not revealed any apparent human-to-human transmission or infection by medical staff. The Health Bureau has received the notification from the National Health and Health Commission and stated that it will notify Macao as soon as it has the latest information.
+
+Director Li Zhanrun emphasized that viral pneumonia is a common disease in winter, but 27 cases of unexplained viral pneumonia occurred in the same place, and 7 of them (25%) were severe and unusual. There are two direct flights between Macao and the Mainland every day. The personnel between the two places are in close contact. The Health Bureau is very concerned about the situation and has deployed additional staff to strengthen health quarantine at ports, especially airports. From today, the Health Bureau conducted a temperature screening of passengers from Wuhan flights at the Macau International Airport. No abnormalities were found for the time being. At the same time, maintain close liaison with the National Health Committee and make preparations for various infectious diseases. The Health Bureau also continues to provide training to medical staff on infection control and detection of various infections, and has sufficient reserves of drugs, other expendable substances, facilities and equipment. The Health Bureau reminds frontline medical staff to be vigilant and to report suspicious cases in a timely manner and take appropriate infection control measures, including if fever or respiratory symptoms in those who stayed in Wuhan within 14 days before the onset of illness are found at the port or medical institution. Further inspection. The Health Bureau urges residents not to panic too much, but to pay attention to personal hygiene and environmental hygiene. When traveling to Wuhan, it is necessary to avoid visiting local hospitals or contacting local people who are sick.
+
+Director Lin Song of the Centers for Disease Control and Prevention said that with regard to clusters of unexplained pneumonia in Wuhan, some experts suspected that it was caused by bird flu or other animal-borne infectious diseases. The known human-infected bird flu is caused by viruses such as H5N1, N7N9, and H5N6. There are also opportunities for other viruses. Macao has stopped importing live poultry, and the chance of bird flu infection in Macao is very small. In Wuhan or other places, try to avoid contact with poultry or other animals, avoid cases gathering places, places where there are many people, hospitals, etc., and consider wearing a mask and pay attention to personal hygiene.
+
+Dean Guo Changyu General Hospital said that in order to cope with related infectious diseases, the Health Bureau has a reserve of anti-influenza drugs sufficient for 180,000 people; and the overall bed occupancy rate of Earl General Hospital is about 80% to 90%. Time as usual. Earl Grey Hospital has always adopted relevant mechanisms to ensure that patients with severe illness or need to be hospitalized reserve beds and rationally use hospital beds. Patients with mild or non-emergency symptoms are urged to choose a private clinic or a funded non-profit organization clinic for treatment, so that those who really need emergency services can get appropriate services earlier.
+
+The Health Bureau reminds frontline medical staff to be vigilant and to report suspicious cases promptly and take appropriate infection control measures. Residents should pay attention to personal and food hygiene when traveling abroad to avoid contact with birds and other animals; walk to crowded places You can consider wearing a mask; avoid going to a local hospital or contacting people who are sick locally; if you feel unwell after traveling back to Australia, you should seek medical treatment as early as possible and explain your travel history to the doctor.
+
+- [source](https://www.gov.mo/zh-hans/news/275204/)
+
+
 #### Additional links
 
 - 30/12/2019: [ProMedMail - UNDIAGNOSED PNEUMONIA - CHINA (HUBEI): REQUEST FOR INFORMATION](https://promedmail.org/promed-post/?id=6864153)
