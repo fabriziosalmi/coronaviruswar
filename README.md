@@ -7,15 +7,16 @@ The aim of this website is to have all available COVID-19 real time maps in a si
 - [Global](https://coronaviruswar.org/)
 - [Italy](https://coronaviruswar.org/Italy.html)
 
+## Downloads
+
+- [OSX application](https://github.com/fabriziosalmi/coronaviruswar/blob/master/downloads/CoronaVirusWar.app.zip?raw=true)
+
 ## Info
 
+- Data by official sources
 - Based on [Bootstrap](https://github.com/twbs/bootstrap) + [SB Admin 2 theme](https://startbootstrap.com/themes/sb-admin-2/)
 - Hosted by [GitHub](https://pages.github.com/)
 - Cached by [Cloudflare](https://www.cloudflare.com)
-
-## Download
-
-- [OSX application](https://github.com/fabriziosalmi/coronaviruswar/blob/master/downloads/CoronaVirusWar.app.zip?raw=true)
 
 ## TO DO
 
