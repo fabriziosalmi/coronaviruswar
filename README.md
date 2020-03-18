@@ -5,7 +5,7 @@ The aim of this website is to serve an easy to use cockpit for most web users wi
 - COVID-19 global map
 - COVID-19 country maps 
 - Official links
-- Media resources
+- Useful resources
 - Donations 
 
 ## Maps
