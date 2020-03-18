@@ -11,6 +11,8 @@ The aim of this website is to aggregate all available COVID-19 real time maps in
 
 - Based on Bootstrap
 - SB2 admin theme
+- Hosted by GitHub
+- Cached by Cloudflare
 
 ## Bugs, features
 
