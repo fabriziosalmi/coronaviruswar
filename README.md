@@ -1,6 +1,6 @@
 # CoronaVirusWar.org
 
-The aim of this website is to aggregate all available COVID-19 real time maps in a single place: https://coronaviruswar.org
+The aim of this website is to have all available COVID-19 real time maps in a single place: https://coronaviruswar.org
 
 ## Maps
 
