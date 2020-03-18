@@ -13,6 +13,10 @@ The aim of this website is to aggregate all available COVID-19 real time maps in
 - Hosted by [GitHub](https://pages.github.com/)
 - Cached by [Cloudflare](https://www.cloudflare.com)
 
+## Download
+
+- [OSX application](https://github.com/fabriziosalmi/coronaviruswar/blob/master/downloads/CoronaVirusWar.app.zip?raw=true)
+
 ## TO DO
 
 - Donation pages
