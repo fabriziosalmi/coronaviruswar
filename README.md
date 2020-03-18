@@ -18,7 +18,7 @@ The aim of this website is to have all available COVID-19 real time maps in a si
 - Hosted by [GitHub](https://pages.github.com/)
 - Cached by [Cloudflare](https://www.cloudflare.com)
 
-## TO DO
+## To do
 
 - Donation pages
 - Mobile maps 
