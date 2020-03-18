@@ -9,7 +9,7 @@ The aim of this website is to aggregate all available COVID-19 real time maps in
 
 ## Info
 
-- Based on [Bootstrap](https://github.com/twbs/bootstrap) + SB2 theme
+- Based on [Bootstrap](https://github.com/twbs/bootstrap) + [SB Admin 2 theme](https://startbootstrap.com/themes/sb-admin-2/)
 - Hosted by [GitHub](https://pages.github.com/)
 - Cached by [Cloudflare](https://www.cloudflare.com)
 
