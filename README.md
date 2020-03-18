@@ -1,6 +1,12 @@
 # CoronaVirusWar.org
 
-The aim of this website is to have all available COVID-19 real time maps in a single place: https://coronaviruswar.org
+The aim of this website is to serve an easy to use cockpit for most web users with useful resources: 
+
+- COVID-19 global map
+- COVID-19 country maps 
+- Official links
+- Media resources
+- Donations 
 
 ## Maps
 
