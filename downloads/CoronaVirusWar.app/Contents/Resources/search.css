@@ -1,0 +1,66 @@
+/* https://codepen.io/anon/pen/xoWGvo */
+
+
+
+
+/* Animation that plays when clicking */
+.FL_explode {
+    position:absolute;
+    background-color: #FF4300 !important;
+    color : white;
+    z-index: 10;
+    padding : 2px 0 2px 0;
+    animation: FL_explode .9s ;
+}
+
+/* the overlay highlight, we can do anything here */
+.FL_currentHighligt {
+    position:absolute;
+    background-color: #FF4300 !important;
+    color : white;
+    z-index: 10;
+    padding : 2px 0 2px 0;
+    animation: FL_crescendo .5s ;
+    border-radius: 4px;
+}
+
+/* the resting version of the above, but inline */
+.FL_currentInlineHighlight {
+    background-color: #FF4300 !important;
+    color : white !important;
+    border-radius: 4px;
+    box-shadow: 0px 0px 50px 5px rgb(187, 50, 0) !important;
+}
+
+/* All the other highlights on the page */
+.FL_inactiveHighlight {
+    background-color: #E6FF00;
+    border-radius: 4px;
+    color : black;
+    box-shadow: 0px 0px 5px rgba(177, 197, 0, 1);
+}
+
+
+@keyframes FL_crescendo {
+    0%   {transform: scale(1);}
+    50% {transform: scale(2);}
+    100% {transform: scale(1); }
+}
+
+@keyframes FL_explode {
+    0%   {transform: scale(1);  }
+    
+    /* 25% { transform: translateY(10px) } */
+    
+    75% { color : rgba(0, 0, 0, 0);
+        /* filter: hue-rotate(-80deg) */
+    }
+    
+    100% {
+        transform: scale(15);
+        opacity: 0;
+        filter: hue-rotate(-40deg)
+        
+        /* filter : blur(2px); */
+    }
+}
